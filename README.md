@@ -61,11 +61,10 @@ Develop SQL-based analytics to deliver detailed insights into:
 * **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-For more details, refer to [docs/requirements.md](docs/requirements.md).
 
 ---
 
-## About Me
+## ⭐ About Me
 
 Junior Data Engineer with hands-on experience in SQL, Python, ETL pipelines, and Data Warehousing (Kimball). Skilled in building and maintaining data pipelines, designing star schemas, and transforming raw data into analytics-ready datasets. Passionate about working with data, solving real-world problems, and continuously learning new technologies like Apache Spark and Databricks to develop scalable data solutions.
 ---
